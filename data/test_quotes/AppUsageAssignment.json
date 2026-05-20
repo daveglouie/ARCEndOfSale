@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "AppUsageAssignment",
+        "referenceId": "AppUsageAssignmentRef1"
+      },
+      "RecordId": "@QuoteRef1",
+      "AppUsageType": "RevenueLifecycleManagement"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Product2Ref1"
+      },
+      "Name": "Enterprise Campaign Manager (Legacy)",
+      "ProductCode": "ECM-LEGACY",
+      "IsActive": true,
+      "Family": "Software",
+      "Description": "Legacy enterprise campaign management solution - End of Sale product for testing",
+      "QuantityUnitOfMeasure": "User",
+      "RenewalReplacementProduct__c": "01tVW000003o2bfYAA"
+    }
+  ]
+}

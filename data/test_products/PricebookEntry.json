@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "PricebookEntry",
+        "referenceId": "PricebookEntryRef1"
+      },
+      "Pricebook2Id": "01sVW0000029ohBYAQ",
+      "Product2Id": "@Product2Ref1",
+      "UnitPrice": 1200,
+      "IsActive": true,
+      "UseStandardPrice": false,
+      "ProductSellingModelId": "0jPVW0000001tX82AI"
+    }
+  ]
+}

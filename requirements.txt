@@ -1,0 +1,8 @@
+# Python Dependencies for ARCEndOfSale Project
+
+# HTTP library for REST API calls
+requests>=2.31.0
+
+# Optional: CumulusCI for advanced Salesforce automation
+# Uncomment if using CumulusCI-based scripts
+# cumulusci>=3.87.0

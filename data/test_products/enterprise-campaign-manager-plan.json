@@ -1,0 +1,26 @@
+[
+  {
+    "sobject": "Product2",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": ["Product2.json"]
+  },
+  {
+    "sobject": "ProductSellingModelOption",
+    "saveRefs": false,
+    "resolveRefs": true,
+    "files": ["ProductSellingModelOption.json"]
+  },
+  {
+    "sobject": "PricebookEntry",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": ["PricebookEntry.json"]
+  },
+  {
+    "sobject": "ProductCategoryProduct",
+    "saveRefs": false,
+    "resolveRefs": true,
+    "files": ["ProductCategoryProduct.json"]
+  }
+]

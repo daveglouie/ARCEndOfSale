@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "ProductSellingModelOption",
+        "referenceId": "PSMORef1"
+      },
+      "Product2Id": "@Product2Ref1",
+      "ProductSellingModelId": "0jPVW0000001tX82AI",
+      "IsDefault": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "QuoteLineItem",
+        "referenceId": "QuoteLineItemRef1"
+      },
+      "QuoteId": "@QuoteRef1",
+      "Product2Id": "01tVW000003zEFdYAM",
+      "PricebookEntryId": "01uVW000001P7vNYAS",
+      "Quantity": 15,
+      "UnitPrice": 1200,
+      "StartDate": "2026-05-20",
+      "SubscriptionTerm": 1,
+      "PeriodBoundary": "Anniversary"
+    }
+  ]
+}

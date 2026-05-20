@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sf sobject *)",
+      "Bash(sf org *)",
+      "Bash(sf project *)",
+      "Bash(sf data *)",
+      "Bash(chmod +x *)",
+      "Bash(python *)",
+      "Bash(pip install *)",
+      "Bash(read url *)",
+      "Bash(curl -s -H 'Authorization: Bearer __TRACKED_VAR__' __TRACKED_VAR__/services/data/v62.0/actions/standard)",
+      "Bash(curl -s -H 'Authorization: Bearer __TRACKED_VAR__' __TRACKED_VAR__/services/data/v62.0/actions/standard/createOrderFromQuote)",
+      "Bash(xargs -I {} sf data query --query \"SELECT Id, AssetId FROM OrderItem WHERE Id='{}'\" --target-org orgfarmorg)",
+      "Bash(xargs -I {} sf data delete record --sobject Product2 --record-id {} --target-org orgfarmorg)",
+      "Bash(python3 *)",
+      "Bash(./test_import.sh)",
+      "WebFetch(domain:developer.salesforce.com)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}

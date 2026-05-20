@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Quote",
+        "referenceId": "QuoteRef1"
+      },
+      "Name": "Test Quote - Labubu Industries 18",
+      "OpportunityId": "@OpportunityRef1",
+      "Pricebook2Id": "01sVW0000029ohBYAQ",
+      "QuoteAccountId": "001VW00000WrAsXYAV",
+      "StartDate": "2026-05-20"
+    }
+  ]
+}

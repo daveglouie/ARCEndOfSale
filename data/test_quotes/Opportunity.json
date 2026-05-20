@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OpportunityRef1"
+      },
+      "Name": "Opportunity for Test Quote - Labubu Industries 18",
+      "AccountId": "001VW00000WrAsXYAV",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-12-31"
+    }
+  ]
+}

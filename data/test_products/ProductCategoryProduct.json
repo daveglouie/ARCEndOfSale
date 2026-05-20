@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "ProductCategoryProduct",
+        "referenceId": "PCPRef1"
+      },
+      "ProductId": "@Product2Ref1",
+      "ProductCategoryId": "0ZGVW000000ImKs4AK"
+    }
+  ]
+}

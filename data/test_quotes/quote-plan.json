@@ -1,0 +1,26 @@
+[
+  {
+    "sobject": "Opportunity",
+    "files": [
+      "Opportunity.json"
+    ],
+    "saveRefs": true,
+    "resolveRefs": false
+  },
+  {
+    "sobject": "Quote",
+    "files": [
+      "Quote.json"
+    ],
+    "saveRefs": true,
+    "resolveRefs": true
+  },
+  {
+    "sobject": "QuoteLineItem",
+    "files": [
+      "QuoteLineItem.json"
+    ],
+    "saveRefs": false,
+    "resolveRefs": true
+  }
+]
